@@ -1,12 +1,12 @@
 {"Home": [
-{"key":"APP","title":"APP","pic":"https://epg.112114.xyz/bingimg"},
-{"key":"网页","title":"自定义","pic":"https://epg.112114.xyz/bingimg"},
-{"key":"采集","title":"采集站","pic":"https://epg.112114.xyz/bingimg"},
-{"key":"直播","title":"直播","pic":"https://epg.112114.xyz/bingimg"},
-{"key":"历史","title":"历史记录","pic":"https://epg.112114.xyz/bingimg"},
-{"key":"收藏","title":"我的收藏","pic":"https://epg.112114.xyz/bingimg"},
-{"key":"推送","title":"推送","pic":"https://epg.112114.xyz/bingimg"},
-{"key":"待添加","title":"待添加","pic":"https://epg.112114.xyz/bingimg"}
+{"key":"APP","title":"APP调试","pic":"http://1.117.152.239:39000/tupian.php?text=APP"},
+{"key":"网页","title":"自定义","pic":"http://1.117.152.239:39000/tupian.php?text=自定义"},
+{"key":"采集","title":"采集调试","pic":"http://1.117.152.239:39000/tupian.php?text=采集"},
+{"key":"直播","title":"直播调试","pic":"http://1.117.152.239:39000/tupian.php?text=直播"},
+{"key":"历史","title":"历史记录","pic":"http://1.117.152.239:39000/tupian.php?text=历史"},
+{"key":"收藏","title":"我的收藏","pic":"http://1.117.152.239:39000/tupian.php?text=收藏"},
+{"key":"推送","title":"远程推送","pic":"http://1.117.152.239:39000/tupian.php?text=推送"},
+{"key":"待添加","title":"待添加","pic":"http://1.117.152.239:39000/tupian.php?text=待添加"}
 ],
 
 "zhuyejiekou": [
